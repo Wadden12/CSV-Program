@@ -1,0 +1,10 @@
+3,7262539,2021-11-10,Y,Y,N,Oil Delivery Afternoon-Furnance Making loud sounds--
+4,6875085,2021-11-10,N,N,N,Oil Delivery AM-Furnace not working--
+5,6875085,2021-11-10,N,N,N,Furance making loud noise-Possible Leak--
+6,5790101,2021-11-10,Y,Y,Y,Furnace Stop Working-Need Early Am delivery-Urgent--
+7,5790101,2021-11-11,Y,Y,Y,Oil Delivery AM-Furance making loud sounds-Furnance Inspection-Possible oil leak--
+8,7262539,2021-11-11,N,N,Y,Furnance Inspection--
+9,6548978,2021-11-11,N,N,Y,Furnance Inspection-Furnance Making loud Noise--
+10,7262539,2021-11-11,Y,N,N,Furnace Not working--
+11,5469999,2021-11-11,Y,N,N,Furance Getting to Hot-Furance making loud sounds--
+12,7262539,2021-11-12,Y,Y,Y,Oil delivery after 11am-furnace making loud noises-oil leak--

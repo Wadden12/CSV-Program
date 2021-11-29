@@ -1,0 +1,7 @@
+ProductID,Prod_Or_Service,Prod_Desc,Prod_Cost,Sell_Price,SupplierID,Qty_On_Hand,Order_Point,Max_Level,
+538768,S,Labour,50.0,87.5,5383,,0,0
+476572,P,Coca Cola 12/355ml,5.99,6.2895,4766,0,0,0
+476349,P,Diet Coke 12/355ml,5.99,6.2895,4766,0,0,0
+270572,P,Chicken Nugets 400gm,54.56,62.744,2700,0,0,0
+538531,P,Oil,3.25,5.2,5383,0,0,0
+538236,S,Furnance Inspection,50.0,100.0,5383,,0,0

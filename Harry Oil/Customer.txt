@@ -1,0 +1,14 @@
+Account_Number, First_Name, Last_Name, Street_Address, City, Province, Postal_Code, Phone Number, Email, Next_Oil, Next_Furance, Customer_Balance
+6875085,Mike,Wadden,44 Kenai Crescent,St.John's,NL,A1H0J1,7096875085,mike@email.com,2021-11-22,2021-11-22,0
+6875555,Jessica,Kenney,54 Whites Road,CBS,NL,A1G4G6,7096875555,JessicaK@gmail.com,2021-12-09,2022-11-08,0
+6905042,Mark,Mac,Macdonald Drive,St.JOhn's,NL,A1A4Z4,7096905042,MarkyMac@gmail.com,2021-12-10,2021-12-10,0
+5554445,Johny,Test,44 Tester Street,Test City,NL,A1A5M5,7095554445,Tester@mun.ca,2021-12-13,2022-11-10,0
+7265897,Cody,Barrett,44 Barett Drive,Bay City,NL,A7B8P1,7097265897,CodyB@hotmail.com,2021-12-13,2022-11-11,0
+7265646,Michelle,Bic,402 Newfoundland Drive,St.John's,NL,A1A6G1,7097265646,Michelle@yahoo.com,2021-11-15,2021-11-15,0
+7262539,Bill,Waddden,21 Lunenbough Street,St.John's,NL,A1A5A5,7097262539,bill@fjwadden.ca,2021-11-22,2021-11-22,0
+7705095,Craig,Crowel,55 Crowley Street,Gander,NL,A1G0G1,7097705095,Crowel@gmail.com,2021-12-01,2022-02-14,0
+5790101,Peter,Pizza,23 Pizza Avenue,Pizza City,NL,K5A7M1,7095790101,PeterPizza@gmail.com,2021-12-01,2021-12-06,0
+6548978,Maurice,Rocket,86 Montreal Street,St.John's,NL,J1A0J1,7096548978,The_Rocket@gmail.com,2021-12-06,2021-12-06,0
+5469999,Momo,Empire,65 Empire Street,Clarenville,NL,K1L3Z1,7095469999,Momo_FoE@hotmail.com,2021-11-15,2021-11-15,0
+7705085,Kate,Kenney,23 Spring Way,Paradise,NL,A0L1K5,7097705085,Kenney@gmail.com,2021-12-13,2022-11-11,0
+5554234,Mike,Wade,55 Wade Street,St.John's,NL,A1A5A6,7095554234,mike@hotmail.com,2021-12-13,2022-11-11,0

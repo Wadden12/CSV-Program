@@ -1,0 +1,143 @@
+
+       Harry's Top Fuel Co.
+        Call Forum ID: 7
+
+   Account Number          5790101
+   Customer Name:      Peter Pizza
+   Phone Number:    (709) 579-0101
+-------------Address--------------
+   23 Pizza Avenue
+   Pizza City NL, K5A7M1
+-------------Call Info------------
+      Thu Nov 11 09:56:34 2021
+----------------------------------
+Service Request
+**********************
+Repair Service
+Oil Delivery
+Furnace Inspection
+**********************
+       Brief Notes of Problem/Services
+-----------------------------------------------------
+Oil Delivery AM
+Furance making loud sounds
+Furnance Inspection
+Possible oil leak
+-----------------------------------------------------
+
+
+       Harry's Top Fuel Co.
+        Call Forum ID: 8
+
+   Account Number          7262539
+   Customer Name:     Bill Waddden
+   Phone Number:    (709) 726-2539
+-------------Address--------------
+   21 Lunenbough Street
+   St.John's NL, A1A5A5
+-------------Call Info------------
+      Thu Nov 11 10:46:11 2021
+----------------------------------
+Service Request
+**********************
+Furnace Inspection
+**********************
+       Brief Notes of Problem/Services
+-----------------------------------------------------
+Furnance Inspection
+-----------------------------------------------------
+
+
+       Harry's Top Fuel Co.
+        Call Forum ID: 9
+
+   Account Number          6548978
+   Customer Name:   Maurice Rocket
+   Phone Number:    (709) 654-8978
+-------------Address--------------
+   86 Montreal Street
+   St.John's NL, J1A0J1
+-------------Call Info------------
+      Thu Nov 11 10:55:21 2021
+----------------------------------
+Service Request
+**********************
+Furnace Inspection
+**********************
+       Brief Notes of Problem/Services
+-----------------------------------------------------
+Furnance Inspection
+Furnance Making loud Noise
+-----------------------------------------------------
+
+
+       Harry's Top Fuel Co.
+        Call Forum ID: 10
+
+   Account Number          7262539
+   Customer Name:     Bill Waddden
+   Phone Number:    (709) 726-2539
+-------------Address--------------
+   21 Lunenbough Street
+   St.John's NL, A1A5A5
+-------------Call Info------------
+      Thu Nov 11 12:56:01 2021
+----------------------------------
+Service Request
+**********************
+Repair Service
+**********************
+       Brief Notes of Problem/Services
+-----------------------------------------------------
+Furnace Not working
+-----------------------------------------------------
+
+
+       Harry's Top Fuel Co.
+        Call Forum ID: 11
+
+   Account Number          5469999
+   Customer Name:      Momo Empire
+   Phone Number:    (709) 546-9999
+-------------Address--------------
+   65 Empire Street
+   Clarenville NL, K1L3Z1
+-------------Call Info------------
+      Thu Nov 11 13:41:43 2021
+----------------------------------
+Service Request
+**********************
+Repair Service
+**********************
+       Brief Notes of Problem/Services
+-----------------------------------------------------
+Furance Getting to Hot
+Furance making loud sounds
+-----------------------------------------------------
+
+
+       Harry's Top Fuel Co.
+        Call Forum ID: 12
+
+   Account Number          7262539
+   Customer Name:     Bill Waddden
+   Phone Number:    (709) 726-2539
+-------------Address--------------
+   21 Lunenbough Street
+   St.John's NL, A1A5A5
+-------------Call Info------------
+      Fri Nov 12 09:23:23 2021
+----------------------------------
+Service Request
+**********************
+Repair Service
+Oil Delivery
+Furnace Inspection
+**********************
+       Brief Notes of Problem/Services
+-----------------------------------------------------
+Oil delivery after 11am
+furnace making loud noises
+oil leak
+-----------------------------------------------------
+

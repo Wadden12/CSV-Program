@@ -1,0 +1,8 @@
+SupplierID,Supplier_Name,Sup_First_Name,Sup_Last_Name,Phone_Number,Sup_Email,Street_Address,City,Province,Postal_Code,Term_Disc,Term_Day,Lead_Time,Freight_Per,
+4766,Coca Cola,Neil,Sullivan,5061451234,Neil@cocacola.ca,431 Coca Cola Lane,Branmpton,ON,K1C5G1,2,30,14,0
+2700,Sysco,Jean,Mac,5064783146,jean@sysco.com,432 Sysco Drive,Toronto,ON,J1A4J1,2,10,10,0
+5700,Robin Hood,Robin,Hood,4511234567,robin@robinhood.com,44 White Way Drive,Laval,QC,K5A4A5,0,30,14,10
+8710,FJ Wadden's,Jason,Viosey,7093641444,jason@fjwadden.ca,51 Glencoe Drive,Mount Pearl,NL,A1H5G5,0,14,1,0
+7503,Irving Oil,John,Irving,7134454756,john@irving.ca,54 Irving Road,Moncton,NB,H5A9A1,1,30,14,0
+5383,Harry's Top Fuel,Harry,Fuel,7094576457,harry@gmail.com,54 Harry Lane,Paradise,NL,A6G4L6,0,0,0,0
+3712,Furnace Shop,Cody,Keating,5161234567,Cody@Heating.com,512 Heating Way,Halifax,NS,L5A1G9,2,30,21,25
